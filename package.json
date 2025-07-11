@@ -1,0 +1,23 @@
+{
+  "name": "cse341-node",
+  "version": "1.0.0",
+  "description": "My first project",
+  "homepage": "https://github.com/rgarache/CSE-341#readme",
+  "bugs": {
+    "url": "https://github.com/rgarache/CSE-341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgarache/CSE-341.git"
+  },
+  "license": "ISC",
+  "author": "Ryder Garache",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
